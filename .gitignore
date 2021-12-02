@@ -1,0 +1,8 @@
+# Binary directories
+
+.vscode/
+bin/
+obj/
+
+# Files
+*.exe
