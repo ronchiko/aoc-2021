@@ -32,7 +32,8 @@ int main(void) {
 	}
 
 	printf("%d collisions\n", results);
-
+	
+	free(board);
 	fclose(lines);
 	return 0;
 }
